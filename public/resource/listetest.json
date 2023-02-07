@@ -1,0 +1,45 @@
+[
+    {
+        "marque": [
+            {
+                "name": "Acura",
+                "logo": "../public/logo/Acura_logo.svg.png",
+                "dateCreation": 1986,
+                "slogan": "Devant"
+            }
+        ],
+        "modeles" : [
+            {
+                "annee": 2001,
+                "model" : "Integra Type-R"
+            },
+            {
+                "annee": 2002,
+                "model" : "Acura RSX Type-S"
+            },
+            {
+                "annee": 2017,
+                "model" : "Acura NSX"
+            }
+        ]
+    },
+    {
+        "marque": 
+        {
+            "name": "Alpine",
+            "logo": "../public/logo/langfr-420px-Alpine.svg.png",
+            "dateCreation": 1955,
+            "slogan": "nc"
+        },
+        "modeles" : [
+            {
+                "annee": 2017,
+                "model" : "A110"
+            },
+            {
+                "annee": 1973,
+                "model" : "A110 1600s"
+            }
+        ]
+    }
+]

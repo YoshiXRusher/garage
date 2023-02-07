@@ -1,0 +1,105 @@
+ManyToOne
+    Chaque voiture se rapporte à (a) une image.
+    Chaque image peut se rapporter à (peut avoir) de nombreux objets Cars.
+
+OneToMany
+    Chaque voiture peut se rapporter à (peut avoir) de nombreux objets Images.
+    Chaque Images se rapporte à (a) une Voiture.
+
+  ManyToMany
+    Chaque Cars peut se rapporter à (peut avoir) de nombreux objets Images.
+    Chaque image peut également concerner (peut également avoir) de nombreux objets Cars.
+
+  OneToOne
+    Chaque voiture se rapporte à (a) exactement une image.
+    Chaque image se rapporte également à (a) exactement une voiture.
+
+// Marque [logo { string path } , date de création { date }, slogan { string }, actionnaires { liste }]
+// Modèle [année de construction { string }, photo de base { string path } ]
+// Image de couverture { string path }
+// KM
+// Prix
+// Nombre(s) de propriétaire(s)
+// Cylindrée
+// Puissance
+// Carburant
+// Année de mise en circulation
+// Transmission
+// Description
+// Equipement
+
+Entity
+
+    Marque
+        name
+        logo { string path }
+        date de création { date || dateTimeImutable }
+        slogan { string }
+        (actionnaires { liste })
+    
+    Modèle lier avec Marque en OneToMany ou ManyToOne
+        name
+        année de construction { string }
+
+    Images lier avec Voiture en OneToMany ou ManyToOne de façon a avoir plusieurs images pour une voiture mais pas plusieurs voitures par image
+
+        Id
+        Path {string}
+
+    Carrosserie { string }
+        Citadine
+        Cabriolet
+        Coupé
+        SUV|4X4|Pick-Up
+        Break
+        Berline
+        Monospace
+        Utilitaire
+        Autre
+    
+    Transmission { string } 
+        Avant
+        Arrière
+        4X4
+
+    Carburant { string } 
+        Essence
+        Diesel
+        Electrique
+
+    Voiture
+        Id
+        Marque lier avec la table marque
+        Année de construction récupéré avec le modèle
+        Modèle récupéré avec le modèle
+        propre à chaque voiture de cette table
+            Equipements { string }
+            Carrosserie { string }  
+                Citadine
+                Cabriolet
+                Coupé
+                SUV|4X4|Pick-Up
+                Break
+                Berline
+                Monospace
+                Utilitaire
+                Autre
+        
+            Transmission { string } 
+                Avant
+                Arrière
+                4X4
+
+            Carburant { string } 
+                Essence
+                Diesel
+                Electrique
+
+        Année de mise en circulation { dateTime }
+        Kilométrage { int } 
+        Nombre(s) de propriétaire(s) { int }
+        Puissance { string || int } en KW et CH 
+        Cylindrée { int } cm³ 
+        Cylindre { int } nombre de cylindre 
+        Image de couverture { string path } propre à chaque voiture de cette table simple lien
+        Prix { float }
