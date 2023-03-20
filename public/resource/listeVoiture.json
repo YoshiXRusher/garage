@@ -1,17 +1,9 @@
-// "marque": [
-//     {
-//         "name": "",
-//         "logo": "../public/logo/path",
-//         "dateCreation": ,
-//         "slogan": ""
-//     }
-// ],
 [
     {
         "marque": [
             {
                 "name": "Acura",
-                "logo": "../public/logo/Acura_logo.svg.png",
+                "logo": "./public/resource/logo/Acura_logo_PNG6.png",
                 "dateCreation": 1986,
                 "slogan": "Devant"
             }
@@ -32,13 +24,14 @@
         ]
     },
     {
-        "marque": 
-        {
-            "name": "Alpine",
-            "logo": "",
-            "dateCreation": ,
-            "slogan": ""
-        },
+        "marque":[ 
+            {
+                "name": "Alpine",
+                "logo": "./public/resource/logo/alpine.png",
+                "dateCreation": 1955,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2017,
@@ -51,7 +44,14 @@
         ]
     },
     {
-        "marque": "Alumi Craft",
+        "marque": [
+            {
+                "name": "Alumi Craft",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 2004,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2015,
@@ -60,7 +60,14 @@
         ]
     },
     {
-        "marque": "AMC",
+        "marque": [
+            {
+                "name": "AMC",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1954,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1973,
@@ -69,7 +76,14 @@
         ]
     },
     {
-        "marque": "Apollo",
+        "marque": [
+            {
+                "name": "Apollo",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 2001,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2018,
@@ -78,7 +92,14 @@
         ]
     },
     {
-        "marque": "Ariel",
+        "marque": [
+            {
+                "name": "Ariel",
+                "logo": "./public/resource/logo/Ariel-LogoPNG1.png",
+                "dateCreation": 1991,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2013,
@@ -91,7 +112,14 @@
         ]
     },
     {
-        "marque": "Aston Martin",
+        "marque": [
+            {
+                "name": "Aston Martin",
+                "logo": "./public/resource/logo/Aston_Martin_logo_PNG13.png",
+                "dateCreation": 1913,
+                "slogan": "Power, Beauty, Soul"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1964,
@@ -128,7 +156,14 @@
         ]
     },     
     {
-        "marque": "Audi",
+        "marque": [
+            {
+                "name": "Audi",
+                "logo": "./public/resource/logo/Audi-LogoPNG2.png",
+                "dateCreation": 1909,
+                "slogan": "L'avance par la technologie"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2013,
@@ -193,7 +228,14 @@
         ]
     },
     {
-        "marque": "Austin Healey",
+        "marque": [
+            {
+                "name": "Austin Healey",
+                "logo": "./public/resource/logo/Austin-LogoPNG1.png",
+                "dateCreation": 1952,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1958,
@@ -202,7 +244,14 @@
         ]
     }, 
     {
-        "marque": "Auto Union",
+        "marque": [
+            {
+                "name": "Auto Union",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1932,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1939,
@@ -211,7 +260,14 @@
         ]
     },
     {
-        "marque": "BAC",
+        "marque": [
+            {
+                "name": "BAC",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 2009,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2014,
@@ -220,7 +276,14 @@
         ]
     },
     {
-        "marque": "Bentley",
+        "marque": [
+            {
+                "name": "Bentley",
+                "logo": "./public/resource/logo/Bentley-LogoPNG2.png",
+                "dateCreation": 1919 ,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1931,
@@ -241,7 +304,14 @@
         ]
     },
     {
-        "marque": "BMW",
+        "marque": [
+            {
+                "name": "BMW",
+                "logo": "./public/resource/logo/BMW_logo_PNG13.png",
+                "dateCreation": 1916,
+                "slogan": "Le plaisir de conduire"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2011,
@@ -350,7 +420,14 @@
         ]
     },
     {
-        "marque": "Bugatti",
+        "marque": [
+            {
+                "name": "Bugatti",
+                "logo": "./public/resource/logo/Bugatti-LogoPNG2.png",
+                "dateCreation":1909,
+                "slogan": "Rien n'est trop beau, rien n'est trop cher "
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2018,
@@ -375,16 +452,14 @@
         ]
     },
     {
-        "marque": "Austin Healey",
-        "modeles" : [
+        "marque": [
             {
-                "annee": 1958,
-                "model" : "Healey Sprite MkI"
+                "name": "Buick",
+                "logo": "./public/resource/logo/Buick_logo_PNG11.png",
+                "dateCreation":1903 ,
+                "slogan": "Drive Beautiful "
             }
-        ]
-    },
-    {
-        "marque": "Buick",
+        ],
         "modeles" : [
             {
                 "annee": 1987,
@@ -397,7 +472,14 @@
         ]
     }, 
     {
-        "marque": "Cadillac",
+        "marque": [
+            {
+                "name": "Cadillac",
+                "logo": "./public/resource/logo/Cadillac_logo_PNG5.png",
+                "dateCreation": 1902,
+                "slogan": "Life, Liberty, and The Pursuit "
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2016,
@@ -410,7 +492,14 @@
         ]
     },
     {
-        "marque": "Can-Am",
+        "marque": [
+            {
+                "name": "Can-Am",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1973,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2018,
@@ -419,7 +508,14 @@
         ]
     },
     {
-        "marque": "Caterham",
+        "marque": [
+            {
+                "name": "Caterham",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1959,
+                "slogan": "Designed for racing, built for living"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2013,
@@ -428,7 +524,14 @@
         ]
     },
     {
-        "marque": "Chevrolet",
+        "marque":[
+            {
+                "name": "Chevrolet",
+                "logo": "./public/resource/logo/Chevrolet_logo_PNG7.png",
+                "dateCreation": 1911,
+                "slogan": "« Chevrolet et fier de l'être » (Québec), « Un vrai plus » (France), « Make it happen » (« Réalisez vos rêves ») (France), « Find new roads » (« Explorer de nouvelles routes ») (France) "
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1969,
@@ -533,7 +636,14 @@
         ]
     },
     {
-        "marque": "Datsun",
+        "marque": [
+            {
+                "name": "Datsun",
+                "logo": "./public/resource/logo/Datsun-LogoPNG1.png",
+                "dateCreation": 1913,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1970,
@@ -542,7 +652,14 @@
         ]
     },
     {
-        "marque": "DeLorean",
+        "marque": [
+            {
+                "name": "DeLorean",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1975,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1982,
@@ -551,7 +668,14 @@
         ]
     }, 
     {
-        "marque": "Dodge",
+        "marque": [
+            {
+                "name": "Dodge",
+                "logo": "./public/resource/logo/Dodge-LogoPNG1.png",
+                "dateCreation": 1914,
+                "slogan": "Domestic. Not domesticated."
+            }
+        ],
         "modeles" : [   
             {
                 "annee": 1970,
@@ -604,7 +728,14 @@
         ]
     },
     {
-        "marque": "Donkervoort",
+        "marque": [
+            {
+                "name": "Donkervoort",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1978,
+                "slogan": "No Compromise"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2013,
@@ -613,7 +744,14 @@
         ]
     },
     {
-        "marque": "Exomotive",
+        "marque": [
+            {
+                "name": "Exomotive",
+                "logo": "../public/resource/logo/",
+                "dateCreation": 2010,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2018,
@@ -622,7 +760,14 @@
         ]
     },
     {
-        "marque": "Ferrari",
+        "marque": [
+            {
+                "name": "Ferrari",
+                "logo": "./public/resource/logo/Ferrari-LogoPNG1.png",
+                "dateCreation": 1947,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2018,
@@ -755,7 +900,14 @@
         ]
     },
     {
-        "marque": "Ford",
+        "marque": [
+            {
+                "name": "Ford",
+                "logo": "./public/resource/logo/Ford_logo_PNG13.png",
+                "dateCreation":1903 ,
+                "slogan": "Bring on Tomorrow"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2011,
@@ -956,7 +1108,14 @@
         ]
     },
     {
-        "marque": "Funco Motorsports",
+        "marque": [
+            {
+                "name": "Funco Motorsports",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1968,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2018,
@@ -965,7 +1124,14 @@
         ]
     },
     {
-        "marque": "GMC",
+        "marque": [
+            {
+                "name": "GMC",
+                "logo": "./public/resource/logo/GMC-LogoPNG1.png",
+                "dateCreation":1901,
+                "slogan": "We are Professional Grade"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1970,
@@ -978,7 +1144,14 @@
         ]
     },
     {
-        "marque": "Hennessey",
+        "marque": [
+            {
+                "name": "Hennessey",
+                "logo": "../public/resource/logo/Hennessey-LogoPNG1.png",
+                "dateCreation": 1991 ,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2018,
@@ -991,7 +1164,14 @@
         ]
     },
     {
-        "marque": "Holden",
+        "marque": [
+            {
+                "name": "Holden",
+                "logo": "./public/resource/logo/Holden_logo_PNG1-1.png",
+                "dateCreation": 1856,
+                "slogan": "Let's Go There"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1973,
@@ -1008,7 +1188,14 @@
         ]
     },
     {
-        "marque": "Honda",
+        "marque": [
+            {
+                "name": "Honda",
+                "logo": "./public/resource/logo/Honda-LogoPNG1.png",
+                "dateCreation": 1948,
+                "slogan": "The Power of Dreams"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2016,
@@ -1073,7 +1260,14 @@
         ]
     },
     {
-        "marque": "HSV",
+        "marque": [
+            {
+                "name": "HSV",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1931,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2014,
@@ -1082,7 +1276,14 @@
         ]
     },
     {
-        "marque": "HUMMER",
+        "marque": [
+            {
+                "name": "HUMMER",
+                "logo": "./public/resource/logo/Hummer-LogoPNG2.png",
+                "dateCreation": 1992,
+                "slogan": "Like nothing else "
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2006,
@@ -1091,7 +1292,14 @@
         ]
     }, 
     {
-        "marque": "Hyundai",
+        "marque": [
+            {
+                "name": "Hyundai",
+                "logo": "./public/resource/logo/Hyundai_logo_PNG8.png",
+                "dateCreation": 1967,
+                "slogan": "New Thinking. New Possibilities."
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2019,
@@ -1100,7 +1308,14 @@
         ]
     },
     {
-        "marque": "Infiniti",
+        "marque": [
+            {
+                "name": "Infiniti",
+                "logo": "./public/resource/logo/Infiniti_logo_PNG7.png",
+                "dateCreation": 1989,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2015,
@@ -1109,7 +1324,14 @@
         ]
     },
     {
-        "marque": "International",
+        "marque": [
+            {
+                "name": "International",
+                "logo": "./public/resource/logo/",
+                "dateCreation":  1901,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1970,
@@ -1118,7 +1340,14 @@
         ]
     },
     {
-        "marque": "Italdesign",
+        "marque": [
+            {
+                "name": "Italdesign",
+                "logo": "./public/resource/logo/",
+                "dateCreation":  	1968,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2018,
@@ -1127,7 +1356,14 @@
         ]
     },
     {
-        "marque": "Jaguar",
+        "marque": [
+            {
+                "name": "Jaguar",
+                "logo": "./public/resource/logo/Jaguar_logo_PNG1.png",
+                "dateCreation": 1922 ,
+                "slogan": "The Art of Performance"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2015,
@@ -1200,7 +1436,14 @@
         ]
     },
     {
-        "marque": "Jeep",
+        "marque": [
+            {
+                "name": "Jeep",
+                "logo": "./public/resource/logo/Jeep-LogoPNG1.png",
+                "dateCreation": 1941,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1976,
@@ -1229,7 +1472,14 @@
         ]
     },
     {
-        "marque": "Koenigsegg",
+        "marque": [
+            {
+                "name": "Koenigsegg",
+                "logo": "./public/resource/logo/Koenigsegg-LogoPNG1.png",
+                "dateCreation": 1994,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2017,
@@ -1258,7 +1508,14 @@
         ]
     },
     {
-        "marque": "KTM",
+        "marque": [
+            {
+                "name": "KTM",
+                "logo": "./public/resource/logo/KTM_logo_PNG5.png",
+                "dateCreation": 1934,
+                "slogan": "Ready To Race"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2013,
@@ -1267,7 +1524,14 @@
         ]
     },
     {
-        "marque": "Lamborghini",
+        "marque": [
+            {
+                "name": "Lamborghini",
+                "logo": "./public/resource/logo/Lamborghini-LogoPNG1.png",
+                "dateCreation": 1963,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2013,
@@ -1356,7 +1620,14 @@
         ]
     },
     {
-        "marque": "Lancia",
+        "marque": [
+            {
+                "name": "Lancia",
+                "logo": "./public/resource/logo/Lancia-LogoPNG1.png",
+                "dateCreation": 1906,
+                "slogan": "L'élégance, le tempérament."
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1968,
@@ -1369,7 +1640,14 @@
         ]
     },
     {
-        "marque": "Land Rover",
+        "marque": [
+            {
+                "name": "Land Rover",
+                "logo": "./public/resource/logo/LandRover-LogoPNG1.png",
+                "dateCreation": 1948,
+                "slogan": "Imaginez un nouvel horizon et Franchir de nouveaux horizons"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1972,
@@ -1398,7 +1676,14 @@
         ]
     },
     {
-        "marque": "Lexus",
+        "marque": [
+            {
+                "name": "Lexus",
+                "logo": "./public/resource/logo/Lexus-LogoPNG1.png",
+                "dateCreation":1989,
+                "slogan": "À la conquête de la perfection "
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2010,
@@ -1415,7 +1700,14 @@
         ]
     },
     {
-        "marque": "Local Motors",
+        "marque": [
+            {
+                "name": "Local Motors",
+                "logo": "./public/resource/logo/",
+                "dateCreation":2007,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2014,
@@ -1424,7 +1716,14 @@
         ]
     },
     {
-        "marque": "Lotus",
+        "marque": [
+            {
+                "name": "Lotus",
+                "logo": "./public/resource/logo/Lotus_logo_PNG17.png",
+                "dateCreation": 1952,
+                "slogan": "Light is Right"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2016,
@@ -1453,7 +1752,14 @@
         ]
     },
     {
-        "marque": "Maserati",
+        "marque": [
+            {
+                "name": "Maserati",
+                "logo": "./public/resource/logo/Maserati-LogoPNG1.png",
+                "dateCreation": 1914,
+                "slogan": "« Excellence Through Passion » « The absolute opposite of ordinary »"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1939,
@@ -1474,7 +1780,14 @@
         ]
     },
     {
-        "marque": "Mazda",
+        "marque": [
+            {
+                "name": "Mazda",
+                "logo": "./public/resource/logo/Mazda_logo_PNG6.png",
+                "dateCreation": 1920,
+                "slogan": "Drive Together"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2010,
@@ -1515,7 +1828,14 @@
         ]
     },
     {
-        "marque": "McLaren",
+        "marque": [
+            {
+                "name": "McLaren",
+                "logo": "./public/resource/logo/McLaren_logo_PNG5.png",
+                "dateCreation":1989,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2015,
@@ -1564,7 +1884,14 @@
         ]
     },
     {
-        "marque": "Mercedes-Benz",
+        "marque": [
+            {
+                "name": "Mercedes-Benz",
+                "logo": "./public/resource/logo/Mercedes-Benz-LogoPNG1.png",
+                "dateCreation": 1926,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2018,
@@ -1645,7 +1972,14 @@
         ]
     },
     {
-        "marque": "Mercury",
+        "marque": [
+            {
+                "name": "Mercury",
+                "logo": "./public/resource/logo/Mercury_logo_PNG4.png",
+                "dateCreation": 1939,
+                "slogan": "New doors opened "
+            }
+        ],
         "modeles" : [
             
             {
@@ -1655,16 +1989,14 @@
         ]
     },
     {
-        "marque": "Meyers",
-        "modeles" : [
+        "marque": [
             {
-                "annee": 1971,
-                "model" : "Manx"
+                "name": "MG",
+                "logo": "./public/resource/logo/MG_logo_PNG9.png",
+                "dateCreation": 1924,
+                "slogan": "Recharge yourself"
             }
-        ]
-    },
-    {
-        "marque": "MG",
+        ],
         "modeles" : [
             {
                 "annee": 1986,
@@ -1673,7 +2005,14 @@
         ]
     },
     {
-        "marque": "MINI",
+        "marque": [
+            {
+                "name": "MINI",
+                "logo": "./public/resource/logo/Mini-LogoPNG1.png",
+                "dateCreation": 1969,
+                "slogan": "Be Mini"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1965,
@@ -1702,7 +2041,14 @@
         ]
     },
     {
-        "marque": "Mitsubishi",
+        "marque": [
+            {
+                "name": "Mitsubishi",
+                "logo": "./public/resource/logo/Mitsubishi_logo_PNG6.png",
+                "dateCreation": 1970,
+                "slogan": "Drive your Ambition"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1995,
@@ -1739,7 +2085,14 @@
         ]
     },
     {
-        "marque": "Morgan",
+        "marque": [
+            {
+                "name": "Morgan",
+                "logo": "./public/resource/logo/Morgan-Motor-Company-Logo.png",
+                "dateCreation": 1910,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2014,
@@ -1748,7 +2101,14 @@
         ]
     },
     {
-        "marque": "Morris",
+        "marque": [
+            {
+                "name": "Morris",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1910,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1953,
@@ -1757,7 +2117,14 @@
         ]
     },
     {
-        "marque": "Mosler",
+        "marque": [
+            {
+                "name": "Mosler",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1985,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2010,
@@ -1766,7 +2133,14 @@
         ]
     },
     {
-        "marque": "Napier",
+        "marque": [
+            {
+                "name": "Napier",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1933,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1933,
@@ -1775,7 +2149,14 @@
         ]
     },
     {
-        "marque": "Nissan",
+        "marque": [
+            {
+                "name": "Nissan",
+                "logo": "./public/resource/logo/Nissan-LogoPNG1.png",
+                "dateCreation": 1933,
+                "slogan": "Innovation that excites "
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1993,
@@ -1868,7 +2249,14 @@
         ]
     },
     {
-        "marque": "Opel",
+        "marque": [
+            {
+                "name": "Opel",
+                "logo": "./public/resource/logo/Opel_logo_PNG7.png",
+                "dateCreation": 1862,
+                "slogan": "L'avenir appartient à tous"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1984,
@@ -1877,7 +2265,14 @@
         ]
     },
     {
-        "marque": "Pagani",
+        "marque": [
+            {
+                "name": "Pagani",
+                "logo": "./public/resource/logo/Pagani_logo_PNG6.png",
+                "dateCreation": 1992,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2016,
@@ -1894,7 +2289,14 @@
         ]
     },
     {
-        "marque": "Peel",
+        "marque": [
+            {
+                "name": "Peel",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1940,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1962,
@@ -1907,7 +2309,14 @@
         ]
     },
     {
-        "marque": "Penhall",
+        "marque": [
+            {
+                "name": "Penhall",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1857,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2011,
@@ -1916,7 +2325,14 @@
         ]
     },
     {
-        "marque": "Peugeot",
+        "marque": [
+            {
+                "name": "Peugeot",
+                "logo": "./public/resource/logo/Peugeot-LogoPNG1.png",
+                "dateCreation": 1810,
+                "slogan": "Lions of our time "
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1991,
@@ -1933,7 +2349,14 @@
         ]
     },
     {
-        "marque": "Plymouth",
+        "marque": [
+            {
+                "name": "Plymouth",
+                "logo": "./public/resource/logo/Plymouth-LogoPNG1.png",
+                "dateCreation": 1928 ,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1971,
@@ -1942,7 +2365,14 @@
         ]
     },
     {
-        "marque": "Polaris",
+        "marque": [
+            {
+                "name": "Polaris",
+                "logo": "./public/resource/logo/PolarisIndustries-LogoPNG1.png",
+                "dateCreation":1954,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2015,
@@ -1951,7 +2381,14 @@
         ]
     },
     {
-        "marque": "Pontiac",
+        "marque": [
+            {
+                "name": "Pontiac",
+                "logo": "./public/resource/logo/Pontiac_logo_PNG5.png",
+                "dateCreation": 1925,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1965,
@@ -1972,7 +2409,14 @@
         ]
     },
     {
-        "marque": "Porsche",
+        "marque": [
+            {
+                "name": "Porsche",
+                "logo": "./public/resource/logo/porsche-logo-13.png",
+                "dateCreation": 1931,
+                "slogan": "Future Sportscar"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1970,
@@ -2093,7 +2537,14 @@
         ]
     },
     {
-        "marque": "Radical",
+        "marque": [
+            {
+                "name": "Radical",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1997,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2015,
@@ -2102,7 +2553,14 @@
         ]
     }, 
     {
-        "marque": "RAESR",
+        "marque": [
+            {
+                "name": "RAESR",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 2014,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2019,
@@ -2111,7 +2569,14 @@
         ]
     },
     {
-        "marque": "RAM",
+        "marque": [
+            {
+                "name": "RAM",
+                "logo": "./public/resource/logo/Ram-LogoPNG1.png",
+                "dateCreation": 2009,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2017,
@@ -2120,7 +2585,14 @@
         ]
     },
     {
-        "marque": "Reliant",
+        "marque": [
+            {
+                "name": "Reliant",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1935,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1972,
@@ -2129,7 +2601,14 @@
         ]
     },
     {
-        "marque": "Renault",
+        "marque": [
+            {
+                "name": "Renault",
+                "logo": "./public/resource/logo/Renault-LogoPNG1.pngRenault-LogoPNG1.png",
+                "dateCreation": 1898,
+                "slogan": "La vie, avec passion"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1968,
@@ -2162,7 +2641,14 @@
         ]
     },
     {
-        "marque": "Rimac",
+        "marque": [
+            {
+                "name": "Rimac",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 2009,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2019,
@@ -2171,7 +2657,14 @@
         ]
     },
     {
-        "marque": "Saleen",
+        "marque": [
+            {
+                "name": "Saleen",
+                "logo": "./public/resource/logo/Saleen-LogoPNG1",
+                "dateCreation": 1983,
+                "slogan": "Créateur d'automobiles "
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2018,
@@ -2184,7 +2677,14 @@
         ]
     },
     {
-        "marque": "Shelby",
+        "marque": [
+            {
+                "name": "Shelby",
+                "logo": "./public/resource/logo/Shelby-LogoPNG2.png",
+                "dateCreation": 1962,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1965,
@@ -2197,7 +2697,14 @@
         ]
     },
     {
-        "marque": "Sierra Cars",
+        "marque": [
+            {
+                "name": "Sierra Cars",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 2020,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2020,
@@ -2206,7 +2713,14 @@
         ]
     },
     {
-        "marque": "Subaru",
+        "marque": [
+            {
+                "name": "Subaru",
+                "logo": "./public/resource/logo/Subaru-LogoPNG1.png",
+                "dateCreation": 1953,
+                "slogan": "Confidence in Motion"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2013,
@@ -2247,9 +2761,15 @@
         ]
     },
     {
-        "marque": "Toyota",
+        "marque": [
+            {
+                "name": "Toyota",
+                "logo": "./public/resource/logo/Toyota_logo_PNG6.png",
+                "dateCreation": 1926,
+                "slogan": "Toujours mieux toujours plus loin"
+            }
+        ],
         "modeles" : [
-            
             {
                 "annee": 1993,
                 "model" : "#1 T100 Baja Truck"
@@ -2313,7 +2833,14 @@
         ]
     },
     {
-        "marque": "TVR",
+        "marque": [
+            {
+                "name": "TVR",
+                "logo": "./public/resource/logo/TVR_logo_PNG4.png",
+                "dateCreation": 1947,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1998,
@@ -2330,7 +2857,14 @@
         ]
     },
     {
-        "marque": "Ultima",
+        "marque": [
+            {
+                "name": "Ultima",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1992,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2015,
@@ -2339,7 +2873,14 @@
         ]
     },
     {
-        "marque": "Vauxhall",
+        "marque": [
+            {
+                "name": "Vauxhall",
+                "logo": "./public/resource/logo/Vauxhall-LogoPNG1.png",
+                "dateCreation": 1857,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2016,
@@ -2356,7 +2897,14 @@
         ]
     },
     {
-        "marque": "Volkswagen",
+        "marque": [
+            {
+                "name": "Volkswagen",
+                "logo": "./public/resource/logo/Volkswagen-LogoPNG1.png",
+                "dateCreation": 1937,
+                "slogan": "On peut douter de tout mais pas de sa Volkswagen"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1963,
@@ -2417,7 +2965,14 @@
         ]
     },
     {
-        "marque": "Volvo",
+        "marque": [
+            {
+                "name": "Volvo",
+                "logo": "./public/resource/logo/Volvo-Logo_PNG14.png",
+                "dateCreation": 1927,
+                "slogan": "Volvo for life"
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1983,
@@ -2434,7 +2989,14 @@
         ]
     },
     {
-        "marque": "VUHL",
+        "marque": [
+            {
+                "name": "VUHL",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 2010,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2017,
@@ -2443,7 +3005,14 @@
         ]
     },
     {
-        "marque": "Willys",
+        "marque": [
+            {
+                "name": "Willys",
+                "logo": "./public/resource/logo/",
+                "dateCreation": 1940,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 1945,
@@ -2452,7 +3021,14 @@
         ]
     },
     {
-        "marque": "Zenvo",
+        "marque": [
+            {
+                "name": "Zenvo",
+                "logo": "./public/resource/logo/Zenvo-Logo.png",
+                "dateCreation": 2004,
+                "slogan": ""
+            }
+        ],
         "modeles" : [
             {
                 "annee": 2019,
